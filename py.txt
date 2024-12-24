@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 i like coding with python
+=======
+
+>>>>>>> cc0c9543b2df9f4dad1142946065042a5e998712
