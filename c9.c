@@ -1,0 +1,2 @@
+goog
+morning
